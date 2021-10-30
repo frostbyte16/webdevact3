@@ -1,0 +1,200 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+p{
+  color: #0e0f0f;
+}
+
+/*Menu Section*/
+#menu{
+  background-color: #FC8A32;
+  padding: 3% 5% 0 5%;
+}
+
+.brand-title{
+  font-family: 'Rock Salt', cursive;
+  font-weight: 500;
+  font-size: 2.5rem;
+}
+
+.links{
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.nav-item{
+  padding: 0 0.5rem;
+}
+
+.navbar{
+  padding: 0 0 1.5rem;
+}
+
+/*Title Section*/
+#title{
+  background-color: #F85E00;
+  padding: 3% 15% 5%;
+}
+
+.title-quote{
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-weight: 900;
+  font-size: 2.5rem;
+  margin: 10% 0 10%;
+}
+
+.btn-order{
+  margin: 5% 3% 5% 0;
+}
+
+.title-img{
+  width: 75%;
+}
+
+.title-img-con{
+  margin-left: 20%;
+}
+
+/*Pricing Section*/
+#pricing{
+  padding: 5% 14%;
+  text-align: center;
+  background-color: #FFB563;
+}
+
+.price-heading{
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.price-text{
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.card-header{
+  height: 4rem;
+}
+
+.card-img{
+  width: 50%;
+}
+
+.card-dish{
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.btn-menu{
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.menu-list{
+  padding-bottom: 3%;
+}
+
+/*Story Section*/
+#about{
+  background-color: #E34C09;
+  padding: 3% 10%;
+  text-align: center;
+}
+
+.about-title{
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.about-desc{
+  margin: auto;
+  font-weight: 400;
+  color: white;
+  width: 55%;
+  position: center;
+}
+
+/*Features Section*/
+#features{
+  padding: 7% 14%;
+  text-align: center;
+  background-color: #FFB563;
+}
+
+.feature-title{
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.feature-col{
+  padding: 4%;
+}
+
+/*Testimonials Section*/
+#testimonials{
+  background-color: #A41623;
+  text-align: center;
+  color: white;
+}
+
+.testimonial-title{
+  padding-top: 3%;
+  margin: 0;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.testimonial-img{
+  border-radius: 50%;
+  width: 7%;
+  margin: 10px;
+}
+
+.testimonial-txt{
+  font-weight: 400;
+  font-size: 1.2rem;
+  margin: 10px;
+}
+
+.carousel-item{
+  padding: 3.5% 7%;
+  height: 15rem;
+}
+
+
+/*Footer Section*/
+#footer{
+  background-color: #fc8a32;
+  text-align: left;
+  padding: 5% 15%;
+}
+
+.foot-header{
+  font-weight: 900;
+  font-size: 2rem;
+}
+
+.foot-details{
+  margin-bottom: 0;
+  font-size: 0.8rem;
+}
+
+.foot-soc {
+  padding-right: 3%;
+  font-size: 1.2rem;
+  color: #0e0f0f;
+  text-decoration: none;
+}
+
+a.foot-soc:hover{
+  color: inherit;
+}
